@@ -10,7 +10,11 @@ Esse video rapido mostra aplicação das IAS Generativas.
 USei uma foto da minha galeria, e usei D-ID criar e pasa essa foto a sintetizar e trazer uma dimensão futuristica ao video.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs G
+
+https://github.com/guinacl/guinac/assets/109560475/7a7012d2-5230-4561-beda-38d0544250bf
+
+enerativas, destacando seu potencial transformador.
 
 https://linksharing.samsungcloud.com/5e7ZHDV0I7p7
 
