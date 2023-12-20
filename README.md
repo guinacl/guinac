@@ -15,6 +15,8 @@ O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pe
 https://github.com/guinacl/guinac/assets/109560475/7a7012d2-5230-4561-beda-38d0544250bf
 
 https://linksharing.samsungcloud.com/5e7ZHDV0I7p7
+#LabDIONattyOrNot
+ #DIO,#falvojr .
 
 ## 💭 Reflexão (Opcional)
 Este projeto foi uma experiência incrível que apredi , utilizando as IAs Generativa.
